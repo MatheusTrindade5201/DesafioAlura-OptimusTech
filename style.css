@@ -1,5 +1,6 @@
 @import url('assets/css/cabecalho.css');
 @import url('assets/css/sobre-nos.css');
+@import url('assets/css/metricas.css');
 
 :root {
     --fonte-principal: 'Inter';

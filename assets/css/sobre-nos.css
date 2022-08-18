@@ -1,0 +1,28 @@
+.sobre__nos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8% 15% ;
+    text-align: center;
+}
+
+.nome__secao--sobre, .texto__destaque--sobre {
+    padding-bottom: 3.5rem;
+}
+
+.nome__secao--sobre {
+    color: var(--vermelho-escuro);
+    font-weight: 600;
+}
+
+.texto__destaque--sobre {
+    color: var(--preto);
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.texto__secao-sobre {
+    color: var(--cinza-claro);
+    font-size: 30px;
+    font-weight: 400;
+}

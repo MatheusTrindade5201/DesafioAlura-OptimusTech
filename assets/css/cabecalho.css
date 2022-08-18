@@ -28,7 +28,7 @@
 }
 
 .navegacao__link {
-    text-decoration: none;
+    
     color: var(--cinza-claro);
     font-weight: 500;
 }
@@ -45,12 +45,12 @@
 
 .botao__entrar {
     color: var(--cinza-claro);
-    text-decoration: none;
+    
 }
 
 .botao__cadastrar {
     color: var(--branco);
     background-color: var(--vermelho-escuro);
     border-radius: 8px;
-    text-decoration: none;
+    
 }

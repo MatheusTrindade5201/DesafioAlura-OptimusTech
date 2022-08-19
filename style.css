@@ -1,6 +1,7 @@
 @import url('assets/css/cabecalho.css');
 @import url('assets/css/sobre-nos.css');
 @import url('assets/css/metricas.css');
+@import url('assets/css/vagas.css');
 
 :root {
     --fonte-principal: 'Inter';
@@ -9,6 +10,7 @@
     --vermelho-escuro: #8E2424;
     --branco: #FFFFFF;
     --preto: #000000;
+    --vermelho-opaco: rgba(142, 36, 36, 0.05);
 }
 
 * {

@@ -1,0 +1,56 @@
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--cinza-claro-3);
+    padding: 5em 0 ;
+}
+
+.rodape__texto-destaque {
+    color: var(--cinza-escuro-2);
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.rodape__texto {
+    color: var(--cinza-claro);
+    font-size: 20px;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.formulario {
+    display: flex;
+    margin: 1rem 0 1.5rem 0;
+}
+
+.form-input {
+    margin-right: 0.5em;
+    width: 25vw;
+    padding: 1em;
+    border: 1px solid #D0D5DD;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+}
+
+.form-input::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--cinza-claro);
+}
+
+.form__botao {
+    border: 1px solid var(--vermelho-escuro);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    background-color: var(--vermelho-escuro);
+    color: var(--branco);
+    padding: 1em;
+    font-weight: 500;
+}
+
+.copyright {
+    text-align: center;
+    color: var(--cinza-claro-4);
+}
+

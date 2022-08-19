@@ -16,7 +16,7 @@
 }
 
 .texto__destaque--sobre {
-    color: var(--preto);
+    color: var(--cinza-escuro-2);
     font-size: 48px;
     font-weight: 600;
 }

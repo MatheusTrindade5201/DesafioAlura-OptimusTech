@@ -6,10 +6,11 @@
 :root {
     --fonte-principal: 'Inter';
     --cinza-escuro: #3A404E;
+    --cinza-escuro-2: #101828;
     --cinza-claro: #667085;
+    --cinza-claro-2: #EAECF0;
     --vermelho-escuro: #8E2424;
     --branco: #FFFFFF;
-    --preto: #000000;
     --vermelho-opaco: rgba(142, 36, 36, 0.05);
 }
 
